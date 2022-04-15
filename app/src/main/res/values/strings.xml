@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrimerAplicaKotlin</string>
+    <string name="lanzar_dado">Lanzar Dado</string>
+</resources>
